@@ -1,19 +1,20 @@
-# Create and style a webpage
+# Create and style a Webpage
 ## Project Overview
 This project is part 
-of an assignment to create and style a webpage. 
-The objective is to demonstrate a basic understanding of HTML structure and CSS Styling.
+of an assignment to create and style a Webpage. 
+The objective is to demonstrate a basic understanding of HTML structure and CSS Style.
 
 ## Features
 * HTML file.
 * CSS File
 * Includes:
-  * DOCTYPE! declaration. 
-  * body element with text and image.
-  * simple CSS style on webpage
+  * DOCTYPE! declaration.
+  * head element with a title. 
+  * body element with text, image, and link.
+  * Basic CSS style
 
 ## Requirements
-To view the Webpage use:
+To view the HTML Document use:
 * a modern web browser (e.g. google chrome, mozila firefox etc.)
 * optional: a code editor like visual studio code for customization.
 
